@@ -47,3 +47,8 @@
 7. TensorFlow
 [video link](https://youtu.be/bYeBL92v99Y)
 
+## Introduction 
+#### Ai is the New Electricity.
+- Electricity has once transformed countless Industries such as Transporation, Manufacturing, healthcare and more.
+- AI will now bring about an equally big transformation.
+- The part of the AI that is growing rapidly and driving a lot of the developments is Deep Learning 
